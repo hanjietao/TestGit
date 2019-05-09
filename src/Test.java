@@ -3,7 +3,7 @@ import java.util.Hashtable;
 
 public class Test {
 
-    private static final String KEY_PERSON = "hanjietao";
+    private static final String KEY_PERSON = "no one";
     // remote version
     public static void main(String[] args){
         System.out.println("I don't have to do that.");
