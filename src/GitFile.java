@@ -4,7 +4,7 @@ public class GitFile {
     
     //2.1...web
 
-    //2... [local 1]>>  modify it content
+    //2... [local 1]>>  modify it content，the way you write is wrong ,I modify it using correct way[remote web]
 
     //3...
 
