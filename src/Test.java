@@ -7,6 +7,13 @@ public class Test {
     // remote version
     public static void main(String[] args){
         System.out.println("I don't have to do that.");
+
+        Test test = new Test();
+        boolean result = test.ifNeedToWork("hanjietao");
+
+        System.out.println("args = [" + result + "]");
+
+
     }
 
 
